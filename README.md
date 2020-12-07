@@ -1,6 +1,6 @@
 # ApiRest Node-Express / Mongoose
 
-Estava estudando node->express com banco de dados mongoose, e token jwt, resolvi criar algo que necessito para controlar os meus gastos.
+Estava estudando node->express MongoDB, e token jwt, resolvi criar algo que necessito para controlar os meus gastos.
 
 <div class='tutorial'>
   <div class='title'>
